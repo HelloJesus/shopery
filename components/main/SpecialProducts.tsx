@@ -1,6 +1,6 @@
 "use client"
 import Link from "next/link";
-import Arrow from "/public/images/main/ArrowProduct.svg"
+import Arrow from "/public/images/main/arrowProduct.svg"
 import { useTimer } from 'react-timer-hook';
 import Image from "next/image";
 

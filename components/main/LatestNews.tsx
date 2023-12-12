@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Arrow from "/public/images/main/ArrowProduct.svg"
+import Arrow from "/public/images/main/arrowProduct.svg"
 import Image from "next/image";
 
 export default function LatestNews() {

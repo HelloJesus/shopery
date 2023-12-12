@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Arrow from "/public/images/main/ArrowProduct.svg"
+import Arrow from "/public/images/main/arrowProduct.svg"
 
 type Props = {
     headerText?: string,
